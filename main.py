@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 
-name = input('0000000000Как вас зовут?!!!!   ')
+name = input('Как вас зовут?')
 
 
 print_hi(name)
